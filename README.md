@@ -1,2 +1,4 @@
-# go-hash-11
+# Go Hash 11
+
 Hashing functions for strings in Go.
+
